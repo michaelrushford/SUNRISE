@@ -13,8 +13,11 @@ to operate the motion controler by
 https://www.siderealtechnology.com/
 for pointing and controling the custom telescope fork equitorial mount.
 The project imaging goal: 
-to minimize data collected, eliminate post processing selecting Lucky 
-selecting the least turbulant thus least blured images in real time.
+to minimize data collected, 
+camera and python source SDK for
+https://player-one-astronomy.com/product/apollo-m-max-imx432/
+project is to eliminate post processing by selecting 
+Lucky images- that are least turbulant seing thus least blured images - in real time.
 
 The python def(s) and main code is work in progrees 
 usually has the web link to the knowledge that enable this concept.
