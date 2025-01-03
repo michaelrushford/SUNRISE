@@ -13,7 +13,7 @@ to operate the motion controler by
 https://www.siderealtechnology.com/
 for pointing and controling the custom telescope fork equitorial mount.
 The project imaging goal: 
-to minimize data colected, eliminate post processing selecting Lucky 
+to minimize data collected, eliminate post processing selecting Lucky 
 selecting the least turbulant thus least blured images in real time.
 
 The python def(s) and main code is work in progrees 
