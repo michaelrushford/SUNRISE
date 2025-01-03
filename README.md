@@ -17,7 +17,8 @@ to minimize data collected,
 camera and python source SDK for
 https://player-one-astronomy.com/product/apollo-m-max-imx432/
 project is to eliminate post processing by selecting 
-Lucky images- that are least turbulant seing thus least blured images - in real time.
+Lucky images- that are least turbulant seeing thus least blured images - in real time.
+Advanced image processing to evantully improve these images a future goal.
 
 The python def(s) and main code is work in progrees 
 usually has the web link to the knowledge that enable this concept.
