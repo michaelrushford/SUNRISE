@@ -2,7 +2,7 @@
 http://eyes-on-the-skies.org/ is a backyard Solar Telescope built 1993 review article Sky & telescope September issue.
 Originally remotly operated Linux BBS scripts over modem where text keys steered the telescope and could ask for a realtime download of the sun.
 When internet on Linux BBS scripts moved to Web page and Apache server then on internet linux on static ip.
-Now windows 11 Python code development between home and observator via wireless bridge and tightvnc.
+Now windows 11 Python code development between home and observatory via wireless bridge and tightvnc.
 
 Code here is that under developmnet for remote solar telescope control system.
 I am using 
