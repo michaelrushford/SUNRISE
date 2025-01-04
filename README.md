@@ -11,7 +11,7 @@ which sends commands through Ascom
 https://www.ascom-standards.org/
 to operate the motion controler by 
 https://www.siderealtechnology.com/
-for pointing and controling the custom telescope fork equitorial mount.
+for pointing and controlling the custom telescope fork equitorial mount.
 The project imaging goal: 
 to minimize data collected, 
 camera and python source SDK for
