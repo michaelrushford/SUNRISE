@@ -9,7 +9,7 @@ I am using
 [SkyChart ](https://www.ap-i.net/skychart/en/start) 
 which sends commands through Ascom
 https://www.ascom-standards.org/
-to operate the motion controler by 
+to operate the motion controller by 
 https://www.siderealtechnology.com/
 for pointing and controlling the custom telescope fork equitorial mount.
 The project imaging goal: 
