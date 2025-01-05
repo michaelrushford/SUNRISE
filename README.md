@@ -1,8 +1,9 @@
 # SUNRISE- Solar Surface and Flare Real-time Imaging System  #  https://ahrefs.com/writing-tools/acronym-generator
 http://eyes-on-the-skies.org/ is a backyard Solar Telescope built 1993 review article Sky & telescope 1995 September issue.
 Originally remotly operated Linux BBS scripts via telephone modem where text keys steered the telescope and could ask for a realtime download image of the sun.
-When internet became avalible via Linux BBS scripts moved to Web page and Apache server then on internet linux on static ip TriValley Stargazers made avalible.
-Now system not accesable by internet, OS is windows 11 Python3 code development between home and observatory via wireless bridge and tightvnc. Shared live using Groogle meet images and discussions.
+When internet became avalible via Linux BBS scripts moved to Web page and Apache server on static ip provided by TriValley Stargazers.
+Now system not accesable by internet, OS is windows 11 Python3 code development between home and observatory via wireless bridge and tightvnc. 
+Share live image and GUI controls using Google meet progress, images and discussions.
 
 Code here is that under developmnet for remote solar telescope control system.
 I am using 
